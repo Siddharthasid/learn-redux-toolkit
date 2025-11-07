@@ -1,2 +1,2 @@
-# learn-redux-toolkit
+# reduxtoolkit-freecodecampe
 Created with CodeSandbox
